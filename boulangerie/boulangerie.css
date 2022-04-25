@@ -1,0 +1,38 @@
+
+body {
+color:black;
+background-color:white;
+background-image:url();
+margin:0;
+}
+
+p
+{
+
+color: black;
+
+}
+
+div
+{
+background-color: ;
+color: black;
+
+}
+
+
+}
+section
+{
+background-color:yellow ;
+color: black;
+
+}
+
+{
+/* L'image est positionnée en fond et est centrée */
+background: url(https://p4.wallpaperbetter.com/wallpaper/484/71/584/croissant-4k-images-for-backgrounds-desktop-wallpaper-preview.jpg);
+/* Ajout de la propriété avec les préfixes pour tous les moteurs de rendu */
+
+background-size: cover;
+}
